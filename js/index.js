@@ -1,42 +1,42 @@
-let slide_index = 0
-let slide_play = true
-let slides = document.querySelectorAll('.slide')
+let slide_index = 0;
+let slide_play = true;
+let slides = document.querySelectorAll('.slide');
 
 hideAllSlide = () => {
     slides.forEach(e => {
-        e.classList.remove('active')
-    })
-}
+        e.classList.remove('active');
+    });
+};
 
 showSlide = () => {
-    hideAllSlide()
-    slides[slide_index].classList.add('active')
-}
+    hideAllSlide();
+    slides[slide_index].classList.add('active');
+};
 
-nextSlide = () => slide_index = slide_index + 1 === slides.length ? 0 : slide_index + 1
+nextSlide = () => slide_index = slide_index + 1 === slides.length ? 0 : slide_index + 1;
 
-prevSlide = () => slide_index = slide_index - 1 < 0 ? slides.length - 1 : slide_index - 1
+prevSlide = () => slide_index = slide_index - 1 < 0 ? slides.length - 1 : slide_index - 1;
 
 // pause slide cuando esta en hover slider
 
-document.querySelector('.slider').addEventListener('mouseover', () => slide_play = false)
+document.querySelector('.slider').addEventListener('mouseover', () => slide_play = false);
 
 // habilitar slide cuando mouse sale de slider
-document.querySelector('.slider').addEventListener('mouseleave', () => slide_play = true)
+document.querySelector('.slider').addEventListener('mouseleave', () => slide_play = true);
 
 // slider control
 
 document.querySelector('.slide-next').addEventListener('click', () => {
-    nextSlide()
-    showSlide()
-})
+    nextSlide();
+    showSlide();
+});
 
 document.querySelector('.slide-prev').addEventListener('click', () => {
-    prevSlide()
-    showSlide()
-})
+    prevSlide();
+    showSlide();
+});
 
-showSlide()
+showSlide();
     //pruebas
     // setInterval(() => {
     //     if (!slide_play) return
@@ -95,10 +95,10 @@ let products = [{
         old_price: '$699.99',
         curr_price: '$599.00'
     },
-]
+];
 
-let product_list = document.querySelector('#latest-products')
-let best_product_list = document.querySelector('#best-products')
+let product_list = document.querySelector('#latest-products');
+let best_product_list = document.querySelector('#best-products');
 
 products.forEach(e => {
     let prod = `
@@ -110,7 +110,7 @@ products.forEach(e => {
                 </div>
                 <div class="product-card-info">
                     <div class="product-btn">
-                        <button class="btn-flat btn-hover btn-shop-now">COMPRAR</button>
+                        <a href="./product-detail.php" class="btn-flat btn-hover btn-shop-now">COMPRAR</a>
                         <button class="btn-flat btn-hover btn-cart-add">
                             <i class='bx bxs-cart-add'></i>
                         </button>
@@ -128,8 +128,8 @@ products.forEach(e => {
                 </div>
             </div>
         </div>
-    `
+    `;
 
-    product_list.insertAdjacentHTML("beforeend", prod)
-    best_product_list.insertAdjacentHTML("afterbegin", prod)
-})
+    product_list.insertAdjacentHTML("beforeend", prod);
+    best_product_list.insertAdjacentHTML("afterbegin", prod);
+});

@@ -62,9 +62,9 @@ let products = [{
         old_price: '$400',
         curr_price: '$359'
     },
-]
+];
 
-let product_list = document.querySelector('#products')
+let product_list = document.querySelector('#products');
 
 renderProducts = (products) => {
     products.forEach(e => {
@@ -77,7 +77,7 @@ renderProducts = (products) => {
                     </div>
                     <div class="product-card-info">
                         <div class="product-btn">
-                            <a href="../product-detail.html" class="btn-flat btn-hover btn-shop-now">COMPRAR</a>
+                            <a href="./product-detail.php" class="btn-flat btn-hover btn-shop-now">COMPRAR</a>
                             <button class="btn-flat btn-hover btn-cart-add">
                                 <i class='bx bxs-cart-add'></i>
                             </button>
@@ -95,16 +95,16 @@ renderProducts = (products) => {
                     </div>
                 </div>
             </div>
-        `
-        product_list.insertAdjacentHTML("beforeend", prod)
-    })
-}
+        `;
+        product_list.insertAdjacentHTML("beforeend", prod);
+    });
+};
 
-renderProducts(products)
-renderProducts(products)
+renderProducts(products);
+renderProducts(products);
 
-let filter_col = document.querySelector('#filter-col')
+let filter_col = document.querySelector('#filter-col');
 
-document.querySelector('#filter-toggle').addEventListener('click', () => filter_col.classList.toggle('active'))
+document.querySelector('#filter-toggle').addEventListener('click', () => filter_col.classList.toggle('active'));
 
-document.querySelector('#filter-close').addEventListener('click', () => filter_col.classList.toggle('active'))
+document.querySelector('#filter-close').addEventListener('click', () => filter_col.classList.toggle('active'));
