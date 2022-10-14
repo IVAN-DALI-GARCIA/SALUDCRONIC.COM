@@ -11,6 +11,7 @@
     --btn-bg: #000;
     --btn-border-color: #000;
     --btn-color: rgb(134, 248, 214);
+    --btnColorActive: rgb(112, 228, 249);
     /*86f8d6*/
 }
 
@@ -249,16 +250,17 @@ ul.devided>li:last-child {
     border-bottom: 2px solid transparent;
     border-top: 2px solid transparent;
 }
-
+/* hover y estado activo de los menús*/
 .menuHoverColor:hover {
     background: var(--btn-bg);
-    color: var(--second-bg-color);   
+    color: white;   
 }
 .menuActivo{
-    background: var(--btn-bg);
-    color: #fff;  
-    border-color: white; 
+    background-color: var(--btnColorActive) ;
+    color: var(--btn-bg);       
 }
+
+
 
 /* menu */
 
@@ -278,7 +280,7 @@ ul.devided>li:last-child {
 .mega-dropdown:hover .mega-content {
     opacity: 1;
     visibility: visible;
-    top: 100%;
+    top: 100%;    
 }
 
 .mega-content h3 {
@@ -1039,7 +1041,7 @@ footer ul li {
 
 /*area de contact*/
 
-.container form {
+/* .container form {
     width: 75%;
     margin: auto;
     background: rgba(0, 0, 0, 0.4);
@@ -1092,7 +1094,7 @@ textarea {
 #button2:hover {
     background-color: var(--btn-color);
     color: var(--btn-bg);
-}
+} */
 
 
 /* icons float*/
