@@ -15,8 +15,8 @@
     <script src="https://kit.fontawesome.com/eb496ab1a0.js" crossorigin="anonymous"></script>
     <!-- referencia al app css -->
     <link rel="stylesheet" href="./css/grid.css">
-    <link rel="stylesheet" href="./css/app.css">
-    <link rel="stylesheet" href="estilos2.css">
+    <link rel="stylesheet" href="./css/app.css?v=<?php echo time(); ?>">
+    <link rel="stylesheet" href="estilos2.css?v=<?php echo time(); ?>">
 </head>
 
 <body>
@@ -260,7 +260,9 @@
                     ipsam perferendis expedita voluptatum iusto?
                 </p>
             </div>
-            <button class="btn-flat btn-hover">DESCARGA PDF</button>
+            <button class="btn-flat btn-hover"> 
+                <a href="archivos/SALUDCRONIC.pdf" download="descargadearchivo">DESCARGA PDF</a>
+            </button>
             <div class="section-header">
                 <br>
                 <h3>POLÍTICA DE CALIDAD</h3>
@@ -334,7 +336,9 @@
                     ipsam perferendis expedita voluptatum iusto?
                 </p>
             </div>
-            <button class="btn-flat btn-hover">DESCARGA PDF</button>
+            <button class="btn-flat btn-hover"> 
+                <a href="archivos/SALUDCRONIC.pdf" download="descargadearchivo">DESCARGA PDF</a>
+            </button>
             <div class="section-header">
                 <br>
                 <h3>POLÍTICA DE GENERAL DE LA EMPRESA</h3>
@@ -408,7 +412,9 @@
                     ipsam perferendis expedita voluptatum iusto?
                 </p>
             </div>
-            <button class="btn-flat btn-hover">DESCARGA PDF</button>
+            <button class="btn-flat btn-hover"> 
+                <a href="archivos/SALUDCRONIC.pdf" download="descargadearchivo">DESCARGA PDF</a>
+            </button>
             <div class="section-header">
                 <br>
                 <h3>POLÍTICA DE DEVOLUCIONES</h3>
@@ -482,7 +488,9 @@
                     ipsam perferendis expedita voluptatum iusto?
                 </p>
             </div>
-            <button class="btn-flat btn-hover">DESCARGA PDF</button>
+            <button class="btn-flat btn-hover"> 
+                <a href="archivos/SALUDCRONIC.pdf" download="descargadearchivo">DESCARGA PDF</a>
+            </button>
         </div>
     </div>
     <div class="section">
