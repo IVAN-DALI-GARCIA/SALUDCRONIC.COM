@@ -14,9 +14,9 @@
     <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
     <script src="https://kit.fontawesome.com/eb496ab1a0.js" crossorigin="anonymous"></script>
     <!-- referencia al app css -->
-    <link rel="stylesheet" href="./css/grid.css?v=<?php echo time(); ?>">
-    <link rel="stylesheet" href="./css/app.css?v=<?php echo time(); ?>">
-    <link rel="stylesheet" href="./estilos2.css?v=<?php echo time(); ?>">
+    <link rel="stylesheet" href="./css/grid.css">
+    <link rel="stylesheet" href="./css/app.css">
+    <link rel="stylesheet" href="./estilos2.css">
 </head>
 
 <body>
