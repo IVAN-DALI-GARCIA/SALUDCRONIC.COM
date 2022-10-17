@@ -1041,7 +1041,7 @@ footer ul li {
 
 /*area de contact*/
 
-/* .container form {
+.container form {
     width: 75%;
     margin: auto;
     background: rgba(0, 0, 0, 0.4);
@@ -1094,7 +1094,7 @@ textarea {
 #button2:hover {
     background-color: var(--btn-color);
     color: var(--btn-bg);
-} */
+}
 
 
 /* icons float*/
