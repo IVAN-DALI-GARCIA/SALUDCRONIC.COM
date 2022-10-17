@@ -792,8 +792,8 @@
                 <div class="col-3 col-md-6">
                     <h3 class="footer-head">POLITICAS Y APOYOS </h3>
                     <ul class="menu">
-                        <li><a href="#">POLÍTICA DE PRIVACIDAD</a></li>
-                        <li><a href="sucursales">SUCURSALES</a></li>
+                        <li><a href="politicas-calidad.php">POLÍTICA DE PRIVACIDAD</a></li>
+                        <li><a href="sucursales.php">SUCURSALES</a></li>
                         <li><a href="#">ENVIOS</a></li>
                         <li><a href="nosotros.php">NOSOTROS</a></li>
                         <li><a href="#">FACTURAS</a></li>
