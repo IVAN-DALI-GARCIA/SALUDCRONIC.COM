@@ -168,10 +168,11 @@
                         </li>
                         <li class="menuHoverColor"><a href="products.php">PRODUCTOS</a></li>
                         <li class="menuHoverColor"><a href="blog_tips.php">BLOG</a></li>
-                        <li class="menuHoverColor menuActivo"><a href="current-cuestions.php">PREGUNTAS</a></li>
+                        <li class="menuHoverColor"><a href="current-cuestions.php">PREGUNTAS</a></li>
                         <li class="menuHoverColor"><a href="contactme.php">CONTACTO</a></li>
                         <li class="menuHoverColor"><a href="nosotros.php">NOSOTROS</a></li>
                         <li class="menuHoverColor"><a href="sucursales.php">SUCURSALES</a></li>
+                        <li class="menuHoverColor menuActivo"><a href="empleos.php">BOLSA TRABAJO</a></li>
                     </ul>
                 </div>
             </div>
@@ -183,199 +184,160 @@
                 <div class="breadcumb">
                     <a href="./index.php">INICIO</a>
                     <span><i class='bx bxs-chevrons-right'></i></span>
-                    <a href="./current-cuestions.php">PREGUNTAS FRECUENTES</a>
+                    <a href="./empleos.php">BOLSA DE TRABAJO</a>
                 </div>
             </div>
             <div class="section-header">
-                <h2>SECCIÓN DE PREGUNTAS FRECUENTES </h2>
-            </div>
-            <div class="container2">
-                <img src="./imagenes/question-mark-png-5a3734b5e2a0a9.0719789815135674139283-removebg-preview.png" alt="logotipo de cuestions">
-            </div>
-            <div class="container2">
-                <h2>
-                    ¿Aceptan tarjetas de credito?
-                </h2>
-                <p>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus mollitia nihil accusamus reiciendis nemo, nostrum consequuntur eaque recusandae cum adipisci dolorum autem architecto odio distinctio tempore consequatur, perferendis odit deserunt
-                    ut laboriosam iure! At voluptates similique magni repellat. Atque, dolores dolorum sapiente repellat eius perferendis earum aliquam non veniam rem quaerat consequatur, adipisci perspiciatis ipsam nesciunt? Voluptates doloremque eveniet
-                    cupiditate repudiandae illum sed nisi at dolor hic sunt suscipit nobis esse adipisci iure earum voluptate assumenda quae, atque autem voluptatum. Tempore eos excepturi rem nulla, ipsam autem obcaecati pariatur quibusdam, id facere
-                    esse dolorem voluptatum deserunt tempora explicabo. Vel, dolorem hic atque sint voluptatum quisquam incidunt numquam, quia at optio fuga vitae? Sint, voluptatem assumenda quisquam itaque, alias tempore impedit ad consequatur repudiandae
-                    veniam, facere quasi. Voluptatum quas repellat similique repudiandae autem, unde consequatur eum quo vel debitis eius eveniet atque sapiente at nam aperiam corporis, porro nulla fugit dignissimos.
-                </p>
-                <p>
-                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Temporibus, reprehenderit.
-                </p>
-                <h2>
-                    ¿Tiene envios a toda a otros estados?
-                </h2>
-                <p>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus mollitia nihil accusamus reiciendis nemo, nostrum consequuntur eaque recusandae cum adipisci dolorum autem architecto odio distinctio tempore consequatur, perferendis odit deserunt
-                    ut laboriosam iure! At voluptates similique magni repellat. Atque, dolores dolorum sapiente repellat eius perferendis earum aliquam non veniam rem quaerat consequatur, adipisci perspiciatis ipsam nesciunt? Voluptates doloremque eveniet
-                    cupiditate repudiandae illum sed nisi at dolor hic sunt suscipit nobis esse adipisci iure earum voluptate assumenda quae, atque autem voluptatum. Tempore eos excepturi rem nulla, ipsam autem obcaecati pariatur quibusdam, id facere
-                    esse dolorem voluptatum deserunt tempora explicabo. Vel, dolorem hic atque sint voluptatum quisquam incidunt numquam, quia at optio fuga vitae? Sint, voluptatem assumenda quisquam itaque, alias tempore impedit ad consequatur repudiandae
-                    veniam, facere quasi. Voluptatum quas repellat similique repudiandae autem, unde consequatur eum quo vel debitis eius eveniet atque sapiente at nam aperiam corporis, porro nulla fugit dignissimos.
-                </p>
-                <p>
-                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Temporibus, reprehenderit.
-                </p>
-                <h2>
-                    ¿Tiene sucursales en CDMX?
-                </h2>
-                <p>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus mollitia nihil accusamus reiciendis nemo, nostrum consequuntur eaque recusandae cum adipisci dolorum autem architecto odio distinctio tempore consequatur, perferendis odit deserunt
-                    ut laboriosam iure! At voluptates similique magni repellat. Atque, dolores dolorum sapiente repellat eius perferendis earum aliquam non veniam rem quaerat consequatur, adipisci perspiciatis ipsam nesciunt? Voluptates doloremque eveniet
-                    cupiditate repudiandae illum sed nisi at dolor hic sunt suscipit nobis esse adipisci iure earum voluptate assumenda quae, atque autem voluptatum. Tempore eos excepturi rem nulla, ipsam autem obcaecati pariatur quibusdam, id facere
-                    esse dolorem voluptatum deserunt tempora explicabo. Vel, dolorem hic atque sint voluptatum quisquam incidunt numquam, quia at optio fuga vitae? Sint, voluptatem assumenda quisquam itaque, alias tempore impedit ad consequatur repudiandae
-                    veniam, facere quasi. Voluptatum quas repellat similique repudiandae autem, unde consequatur eum quo vel debitis eius eveniet atque sapiente at nam aperiam corporis, porro nulla fugit dignissimos.
-                </p>
-                <p>
-                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Temporibus, reprehenderit.
-                </p>
-                <h2>
-                    ¿Cúanto tarde en llegar el pedido hasta mi domicilio?
-                </h2>
-                <p>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus mollitia nihil accusamus reiciendis nemo, nostrum consequuntur eaque recusandae cum adipisci dolorum autem architecto odio distinctio tempore consequatur, perferendis odit deserunt
-                    ut laboriosam iure! At voluptates similique magni repellat. Atque, dolores dolorum sapiente repellat eius perferendis earum aliquam non veniam rem quaerat consequatur, adipisci perspiciatis ipsam nesciunt? Voluptates doloremque eveniet
-                    cupiditate repudiandae illum sed nisi at dolor hic sunt suscipit nobis esse adipisci iure earum voluptate assumenda quae, atque autem voluptatum. Tempore eos excepturi rem nulla, ipsam autem obcaecati pariatur quibusdam, id facere
-                    esse dolorem voluptatum deserunt tempora explicabo. Vel, dolorem hic atque sint voluptatum quisquam incidunt numquam, quia at optio fuga vitae? Sint, voluptatem assumenda quisquam itaque, alias tempore impedit ad consequatur repudiandae
-                    veniam, facere quasi. Voluptatum quas repellat similique repudiandae autem, unde consequatur eum quo vel debitis eius eveniet atque sapiente at nam aperiam corporis, porro nulla fugit dignissimos.
-                </p>
-                <p>
-                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Temporibus, reprehenderit.
-                </p>
-                <h2>
-                    ¿Hacen devoluciones de compras, o cambios por otro medicamento?
-                </h2>
-                <p>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus mollitia nihil accusamus reiciendis nemo, nostrum consequuntur eaque recusandae cum adipisci dolorum autem architecto odio distinctio tempore consequatur, perferendis odit deserunt
-                    ut laboriosam iure! At voluptates similique magni repellat. Atque, dolores dolorum sapiente repellat eius perferendis earum aliquam non veniam rem quaerat consequatur, adipisci perspiciatis ipsam nesciunt? Voluptates doloremque eveniet
-                    cupiditate repudiandae illum sed nisi at dolor hic sunt suscipit nobis esse adipisci iure earum voluptate assumenda quae, atque autem voluptatum. Tempore eos excepturi rem nulla, ipsam autem obcaecati pariatur quibusdam, id facere
-                    esse dolorem voluptatum deserunt tempora explicabo. Vel, dolorem hic atque sint voluptatum quisquam incidunt numquam, quia at optio fuga vitae? Sint, voluptatem assumenda quisquam itaque, alias tempore impedit ad consequatur repudiandae
-                    veniam, facere quasi. Voluptatum quas repellat similique repudiandae autem, unde consequatur eum quo vel debitis eius eveniet atque sapiente at nam aperiam corporis, porro nulla fugit dignissimos.
-                </p>
-                <p>
-                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Temporibus, reprehenderit.
-                </p>
-                <h2>
-                    ¿Puedo recoger la mercancia en Bodega de Guadalajara?
-                </h2>
-                <p>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus mollitia nihil accusamus reiciendis nemo, nostrum consequuntur eaque recusandae cum adipisci dolorum autem architecto odio distinctio tempore consequatur, perferendis odit deserunt
-                    ut laboriosam iure! At voluptates similique magni repellat. Atque, dolores dolorum sapiente repellat eius perferendis earum aliquam non veniam rem quaerat consequatur, adipisci perspiciatis ipsam nesciunt? Voluptates doloremque eveniet
-                    cupiditate repudiandae illum sed nisi at dolor hic sunt suscipit nobis esse adipisci iure earum voluptate assumenda quae, atque autem voluptatum. Tempore eos excepturi rem nulla, ipsam autem obcaecati pariatur quibusdam, id facere
-                    esse dolorem voluptatum deserunt tempora explicabo. Vel, dolorem hic atque sint voluptatum quisquam incidunt numquam, quia at optio fuga vitae? Sint, voluptatem assumenda quisquam itaque, alias tempore impedit ad consequatur repudiandae
-                    veniam, facere quasi. Voluptatum quas repellat similique repudiandae autem, unde consequatur eum quo vel debitis eius eveniet atque sapiente at nam aperiam corporis, porro nulla fugit dignissimos.
-                </p>
-                <p>
-                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Temporibus, reprehenderit.
-                </p>
-                <h2>
-                    ¿Las Hemodiálisis, tiene algun tipo de apoyo o financiamiento para clinetes regulares?
-                </h2>
-                <p>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus mollitia nihil accusamus reiciendis nemo, nostrum consequuntur eaque recusandae cum adipisci dolorum autem architecto odio distinctio tempore consequatur, perferendis odit deserunt
-                    ut laboriosam iure! At voluptates similique magni repellat. Atque, dolores dolorum sapiente repellat eius perferendis earum aliquam non veniam rem quaerat consequatur, adipisci perspiciatis ipsam nesciunt? Voluptates doloremque eveniet
-                    cupiditate repudiandae illum sed nisi at dolor hic sunt suscipit nobis esse adipisci iure earum voluptate assumenda quae, atque autem voluptatum. Tempore eos excepturi rem nulla, ipsam autem obcaecati pariatur quibusdam, id facere
-                    esse dolorem voluptatum deserunt tempora explicabo. Vel, dolorem hic atque sint voluptatum quisquam incidunt numquam, quia at optio fuga vitae? Sint, voluptatem assumenda quisquam itaque, alias tempore impedit ad consequatur repudiandae
-                    veniam, facere quasi. Voluptatum quas repellat similique repudiandae autem, unde consequatur eum quo vel debitis eius eveniet atque sapiente at nam aperiam corporis, porro nulla fugit dignissimos.
-                </p>
-                <p>
-                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Temporibus, reprehenderit.
-                </p>
-                <h2>
-                    ¿Se puede facturar las comprar realizadas en linea?
-                </h2>
-                <p>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus mollitia nihil accusamus reiciendis nemo, nostrum consequuntur eaque recusandae cum adipisci dolorum autem architecto odio distinctio tempore consequatur, perferendis odit deserunt
-                    ut laboriosam iure! At voluptates similique magni repellat. Atque, dolores dolorum sapiente repellat eius perferendis earum aliquam non veniam rem quaerat consequatur, adipisci perspiciatis ipsam nesciunt? Voluptates doloremque eveniet
-                    cupiditate repudiandae illum sed nisi at dolor hic sunt suscipit nobis esse adipisci iure earum voluptate assumenda quae, atque autem voluptatum. Tempore eos excepturi rem nulla, ipsam autem obcaecati pariatur quibusdam, id facere
-                    esse dolorem voluptatum deserunt tempora explicabo. Vel, dolorem hic atque sint voluptatum quisquam incidunt numquam, quia at optio fuga vitae? Sint, voluptatem assumenda quisquam itaque, alias tempore impedit ad consequatur repudiandae
-                    veniam, facere quasi. Voluptatum quas repellat similique repudiandae autem, unde consequatur eum quo vel debitis eius eveniet atque sapiente at nam aperiam corporis, porro nulla fugit dignissimos.
-                </p>
-                <p>
-                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Temporibus, reprehenderit.
-                </p>
-            </div>
-            <div class="section-header">
-                <h2>SUGERENCIAS A CLIENTES</h2>
-            </div>
-            <div class="blog2 row-revere">
+                <h2>BOLSA DE TRABAJO  </h2>
+            </div>  
+            <div class="blog2">
                 <div class="blog-img">
-                    <img src="./imagenes/valores1.jpg" alt="Imagenes de pixabayderechos reservados de la pagina VALORES1.jpg">
+                    <img src="./imagenes/Empleoschofer.png" alt="Imagenes de pixabayderechos reservados de la pagina VALORES1.jpg">
                 </div>
                 <div class="blog-info">
                     <div class="blog-title">
-                        APOYOS Y BECAS.
+                    CHOFER / CONDUCTOR .
                     </div>
                     <div class="blog-preview2">
-                        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quasi, eligendi dolore. Sapiente omnis numquam mollitia asperiores animi, veritatis sint illo magnam, voluptatum labore, quam ducimus! Nisi doloremque praesentium laudantium repellat. Lorem ipsum
-                        dolor sit amet consectetur adipisicing elit. Eveniet consequatur a enim ullam obcaecati mollitia adipisci quam fuga? Consequatur temporibus inventore tenetur modi atque maiores ad, explicabo ipsam. Dignissimos debitis aliquid voluptatem
-                        maiores nesciunt aut architecto corrupti, porro deserunt quos aspernatur inventore officia ab quam quis ipsam alias quas iusto obcaecati mollitia corporis. Porro, tempora. lorem100 Lorem, ipsum dolor sit amet consectetur adipisicing
+                        <p><strong>HORARIO DE TRABAJO</strong></p>
+                        <p>-De 9:00 a 16:00</p>
+                        <p><strong>DESCRIPCION DE PUESTO</strong></p>
+                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Delectus deserunt facere accusantium, officia architecto reprehenderit autem dolorem nisi cumque rerum!</p>
+                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Delectus deserunt facere accusantium, officia architecto reprehenderit autem dolorem nisi cumque rerum!</p>
+                        <p><strong>PRESTACIÓNES DE LEY.</strong></p>
+                        <div class="section-footer">
+                            <a href="#" class="btn-flat btn-hover">POSTULARME</a>
+                        </div>
                     </div>
                 </div>
             </div>
             <div class="blog2">
                 <div class="blog-img">
-                    <img src="./imagenes/valores2.jpg" alt="Imagenes de pixabayderechos reservados de la pagina VALORES1.jpg">
+                    <img src="./imagenes/EmpleosvendorPiso.png" alt="Imagenes de pixabayderechos reservados de la pagina VALORES1.jpg">
                 </div>
                 <div class="blog-info">
                     <div class="blog-title">
-                        ESTUDIOS CLINICOS .
+                    VENDEDOR PISO .
                     </div>
                     <div class="blog-preview2">
-                        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quasi, eligendi dolore. Sapiente omnis numquam mollitia asperiores animi, veritatis sint illo magnam, voluptatum labore, quam ducimus! Nisi doloremque praesentium laudantium repellat. Lorem ipsum
-                        dolor sit amet consectetur adipisicing elit. Eveniet consequatur a enim ullam obcaecati mollitia adipisci quam fuga? Consequatur temporibus inventore tenetur modi atque maiores ad, explicabo ipsam. Dignissimos debitis aliquid voluptatem
-                        maiores nesciunt aut architecto corrupti, porro deserunt quos aspernatur inventore officia ab quam quis ipsam alias quas iusto obcaecati mollitia corporis. Porro, tempora. lorem100 Lorem, ipsum dolor sit amet consectetur adipisicing
-                    </div>
-                </div>
-            </div>
-            <div class="blog2 row-revere">
-                <div class="blog-img">
-                    <img src="./imagenes/valores3.jpg" alt="Imagenes de pixabayderechos reservados de la pagina VALORES3.jpg">
-                </div>
-                <div class="blog-info">
-                    <div class="blog-title">
-                        FINANCIAMIENTOS A EMPRESAS
-                    </div>
-                    <div class="blog-preview2">
-                        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quasi, eligendi dolore. Sapiente omnis numquam mollitia asperiores animi, veritatis sint illo magnam, voluptatum labore, quam ducimus! Nisi doloremque praesentium laudantium repellat. Lorem ipsum
-                        dolor sit amet consectetur adipisicing elit. Eveniet consequatur a enim ullam obcaecati mollitia adipisci quam fuga? Consequatur temporibus inventore tenetur modi atque maiores ad, explicabo ipsam. Dignissimos debitis aliquid voluptatem
-                        maiores nesciunt aut architecto corrupti, porro deserunt quos aspernatur inventore officia ab quam quis ipsam alias quas iusto obcaecati mollitia corporis. Porro, tempora. lorem100 Lorem, ipsum dolor sit amet consectetur adipisicing
+                        <p><strong>HORARIO DE TRABAJO</strong></p>
+                        <p>-De 9:00 a 16:00</p>
+                        <p><strong>DESCRIPCION DE PUESTO</strong></p>
+                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Delectus deserunt facere accusantium, officia architecto reprehenderit autem dolorem nisi cumque rerum!</p>
+                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Delectus deserunt facere accusantium, officia architecto reprehenderit autem dolorem nisi cumque rerum!</p>
+                        <p><strong>PRESTACIÓNES DE LEY.</strong></p>
+                        <div class="section-footer">
+                            <a href="#" class="btn-flat btn-hover">POSTULARME</a>
+                        </div>
                     </div>
                 </div>
             </div>
             <div class="blog2">
                 <div class="blog-img">
-                    <img src="./imagenes/valores4.jpg" alt="Imagenes de pixabayderechos reservados de la pagina valores4.jpg">
+                    <img src="./imagenes/EmpleoscallCenter.jpg" alt="Imagenes de pixabayderechos reservados de la pagina VALORES3.jpg">
                 </div>
                 <div class="blog-info">
                     <div class="blog-title">
-                        CAPITAL DE INVERSIÓN.
+                    CALL CENTER .
                     </div>
                     <div class="blog-preview2">
-                        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quasi, eligendi dolore. Sapiente omnis numquam mollitia asperiores animi, veritatis sint illo magnam, voluptatum labore, quam ducimus! Nisi doloremque praesentium laudantium repellat. Lorem ipsum
-                        dolor sit amet consectetur adipisicing elit. Eveniet consequatur a enim ullam obcaecati mollitia adipisci quam fuga? Consequatur temporibus inventore tenetur modi atque maiores ad, explicabo ipsam. Dignissimos debitis aliquid voluptatem
-                        maiores nesciunt aut architecto corrupti, porro deserunt quos aspernatur inventore officia ab quam quis ipsam alias quas iusto obcaecati mollitia corporis. Porro, tempora. lorem100 Lorem, ipsum dolor sit amet consectetur adipisicing
+                        <p><strong>HORARIO DE TRABAJO</strong></p>
+                        <p>-De 9:00 a 16:00</p>
+                        <p><strong>DESCRIPCION DE PUESTO</strong></p>
+                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Delectus deserunt facere accusantium, officia architecto reprehenderit autem dolorem nisi cumque rerum!</p>
+                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Delectus deserunt facere accusantium, officia architecto reprehenderit autem dolorem nisi cumque rerum!</p>
+                        <p><strong>PRESTACIÓNES DE LEY.</strong></p>
+                        <div class="section-footer">
+                            <a href="#" class="btn-flat btn-hover">POSTULARME</a>
+                        </div>
                     </div>
                 </div>
             </div>
-            <div class="blog2 row-revere">
+            <div class="blog2">
                 <div class="blog-img">
-                    <img src="./imagenes/valores5.jpg" alt="Imagenes de pixabayderechos reservados de la pagina VALORES1.jpg">
+                    <img src="./imagenes/EmpleospromotorAnimador.jpg" alt="Imagenes de pixabayderechos reservados de la pagina valores4.jpg">
                 </div>
                 <div class="blog-info">
                     <div class="blog-title">
-                        SELECCION DE PERSONAL.
+                    PROMOTOR /ANIMADOR .
                     </div>
                     <div class="blog-preview2">
-                        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quasi, eligendi dolore. Sapiente omnis numquam mollitia asperiores animi, veritatis sint illo magnam, voluptatum labore, quam ducimus! Nisi doloremque praesentium laudantium repellat. Lorem ipsum
-                        dolor sit amet consectetur adipisicing elit. Eveniet consequatur a enim ullam obcaecati mollitia adipisci quam fuga? Consequatur temporibus inventore tenetur modi atque maiores ad, explicabo ipsam. Dignissimos debitis aliquid voluptatem
-                        maiores nesciunt aut architecto corrupti, porro deserunt quos aspernatur inventore officia ab quam quis ipsam alias quas iusto obcaecati mollitia corporis. Porro, tempora. lorem100 Lorem, ipsum dolor sit amet consectetur adipisicing
+                        <p><strong>HORARIO DE TRABAJO</strong></p>
+                        <p>-De 9:00 a 16:00</p>
+                        <p><strong>DESCRIPCION DE PUESTO</strong></p>
+                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Delectus deserunt facere accusantium, officia architecto reprehenderit autem dolorem nisi cumque rerum!</p>
+                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Delectus deserunt facere accusantium, officia architecto reprehenderit autem dolorem nisi cumque rerum!</p>
+                        <p><strong>PRESTACIÓNES DE LEY.</strong></p>
+                        <div class="section-footer">
+                            <a href="#" class="btn-flat btn-hover">POSTULARME</a>
+                        </div>
                     </div>
                 </div>
             </div>
+            <div class="blog2">
+                <div class="blog-img">
+                    <img src="./imagenes/EmpleosalmacenGeneral.jpg" alt="Imagenes de pixabayderechos reservados de la pagina valores4.jpg">
+                </div>
+                <div class="blog-info">
+                    <div class="blog-title">
+                    PERSONAL ALMACEN GRAL.
+                    </div>
+                    <div class="blog-preview2">
+                        <p><strong>HORARIO DE TRABAJO</strong></p>
+                        <p>-De 9:00 a 16:00</p>
+                        <p><strong>DESCRIPCION DE PUESTO</strong></p>
+                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Delectus deserunt facere accusantium, officia architecto reprehenderit autem dolorem nisi cumque rerum!</p>
+                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Delectus deserunt facere accusantium, officia architecto reprehenderit autem dolorem nisi cumque rerum!</p>
+                        <p><strong>PRESTACIÓNES DE LEY.</strong></p>
+                        <div class="section-footer">
+                            <a href="#" class="btn-flat btn-hover">POSTULARME</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="blog2">
+                <div class="blog-img">
+                    <img src="./imagenes/valores3.jpg" alt="Imagenes de pixabayderechos reservados de la pagina valores4.jpg">
+                </div>
+                <div class="blog-info">
+                    <div class="blog-title">
+                    MEDICO GENERAL/CONSULTAS .
+                    </div>
+                    <div class="blog-preview2">
+                        <p><strong>HORARIO DE TRABAJO</strong></p>
+                        <p>-De 9:00 a 16:00</p>
+                        <p><strong>DESCRIPCION DE PUESTO</strong></p>
+                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Delectus deserunt facere accusantium, officia architecto reprehenderit autem dolorem nisi cumque rerum!</p>
+                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Delectus deserunt facere accusantium, officia architecto reprehenderit autem dolorem nisi cumque rerum!</p>
+                        <p><strong>PRESTACIÓNES DE LEY.</strong></p>
+                        <div class="section-footer">
+                            <a href="#" class="btn-flat btn-hover">POSTULARME</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="blog2">
+                <div class="blog-img">
+                    <img src="./imagenes/Empleosrecepcionista.jpeg" alt="Imagenes de pixabayderechos reservados de la pagina VALORES1.jpg">
+                </div>
+                <div class="blog-info">
+                    <div class="blog-title">
+                    RECEPCIONISTA.
+                    </div>
+                    <div class="blog-preview2">
+                        <p><strong>HORARIO DE TRABAJO</strong></p>
+                        <p>-De 9:00 a 16:00</p>
+                        <p><strong>DESCRIPCION DE PUESTO</strong></p>
+                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Delectus deserunt facere accusantium, officia architecto reprehenderit autem dolorem nisi cumque rerum!</p>
+                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Delectus deserunt facere accusantium, officia architecto reprehenderit autem dolorem nisi cumque rerum!</p>
+                        <p><strong>PRESTACIÓNES DE LEY.</strong></p>
+                        <div class="section-footer">
+                            <a href="#" class="btn-flat btn-hover">POSTULARME</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
             <div class="container2">
                 <div class="blog-title">
                     VIDEO CORPORATIVO.
@@ -384,6 +346,7 @@
             </div>
         </div>
     </div>
+
     <div class="section">
         <div class="container">
             <div class="section-header">
@@ -435,8 +398,7 @@
                 </div>
             </div>
             <div class="section-footer">
-                <a href="#" class="btn-flat btn-hover" role="link" onclick="window.location='./blog_tips.php'">VER
-                    TODO</a>
+                <a href="#" class="btn-flat btn-hover" role="link" onclick="window.location='./blog_tips.php'">VER TODO</a>
             </div>
         </div>
     </div>
