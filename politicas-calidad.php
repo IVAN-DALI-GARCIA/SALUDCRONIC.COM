@@ -166,12 +166,13 @@
                             </div>
                         </div>
                     </li>
-                    <li><a href="products.php">PRODUCTOS</a></li>
-                    <li><a href="blog_tips.php">BLOG</a></li>
-                    <li><a href="current-cuestions.php">PREGUNTAS</a></li>
-                    <li><a href="contactme.php">CONTACTO</a></li>
-                    <li><a href="nosotros.php">NOSOTROS</a></li>
-                    <li><a href="sucursales.php">SUCURSALES</a></li>
+                    <li class="menuHoverColor"><a href="products.php">PRODUCTOS</a></li>
+                    <li class="menuHoverColor"><a href="blog_tips.php">BLOG</a></li>
+                    <li class="menuHoverColor"><a href="current-cuestions.php">PREGUNTAS</a></li>
+                    <li class="menuHoverColor"><a href="contactme.php">CONTACTO</a></li>
+                    <li class="menuHoverColor"><a href="nosotros.php">NOSOTROS</a></li>
+                    <li class="menuHoverColor"><a href="sucursales.php">SUCURSALES</a></li>
+                    <li class="menuHoverColor"><a href="empleos.php">BOLSA TRABAJO</a></li>
                 </ul>
             </div>
         </div>

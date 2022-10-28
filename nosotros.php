@@ -172,6 +172,7 @@
                         <li class="menuHoverColor"><a href="contactme.php">CONTACTO</a></li>
                         <li class="menuHoverColor menuActivo"><a href="nosotros.php">NOSOTROS</a></li>
                         <li class="menuHoverColor"><a href="sucursales.php">SUCURSALES</a></li>
+                        <li class="menuHoverColor"><a href="empleos.php">BOLSA TRABAJO</a></li>
                     </ul>
                 </div>
             </div>
